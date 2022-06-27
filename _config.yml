@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Joris Berns"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : "PhD Candidate in Management @Tilburg University, The Netherlands"
   location         : "Tilburg, The Netherlands"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.nl/citations?user=VrwasZUAAAAJ&hl=nl&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
