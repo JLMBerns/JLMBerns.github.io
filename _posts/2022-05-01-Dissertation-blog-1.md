@@ -1,7 +1,7 @@
 ---
 title: 'Dissertation blog #1'
 date: 2022-05-01
-permalink: /posts/2022/Dissertation-blog-1/
+permalink: /posts/2022/05/Dissertation-blog-1/
 tags:
   - Dissertation
 
