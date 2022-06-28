@@ -83,11 +83,11 @@ author:
   name             : "Joris Berns"
   avatar           : "avatar.jpg"
   bio              : "PhD Candidate in Management"
-  location         : "Tilburg University, The Netherlands"
-  employer         :
+  location         : "The Netherlands"
+  employer         : "Tilburg University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.nl/citations?user=VrwasZUAAAAJ&hl=nl&oi=ao"
-  email            :
+  email            : "j.l.m.berns@tilburguniversity.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
