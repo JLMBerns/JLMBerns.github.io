@@ -7,8 +7,6 @@ tags:
 
 ---
 
-# LinkedIn Dissertation Blog #3
-
 'Dissertation-Blog' #2
 
 Why do so many organizations fail to respond timely when they are confronted by an all-encompassing crisis? Especially when your survival is at stake, and if the crisis at hand is so evident, why wouldn't you respond immediately?
