@@ -19,4 +19,4 @@ This relationship between being able to respond to crises and mental schemas sho
  
 If you have questions or would like to know more about my work, feel free to send a PM!
 
-<iframe src="images/blog3.jpg" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+![](/images/blog2.jpg)
