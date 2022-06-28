@@ -7,6 +7,8 @@ tags:
 
 ---
 
+'Dissertation-Blog' #2
+
 For the first 'blog' about my dissertation, I would like you to consider the picture below depicting a parent and child.
  
 By saying "it was fine alright", you would believe that the child had a good day at school. But now consider the sentence was said in a negative tone. Because this tone is opposite to the words' implied positivity, the communication's overall meaning changes drastically. In determining its meaning, not only the tone of voice is an additional source of information, so is the incongruence between the words and tone of voice. Why did the child use incongruent communication? Is the child hiding information or trying to give of a signal?

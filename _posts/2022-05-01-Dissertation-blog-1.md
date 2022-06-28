@@ -7,6 +7,8 @@ tags:
 
 ---
 
+'Dissertation-Blog' #1
+
 Dear network,
  
 As my PhD is nearing its completion, and because fatherhood has given me some much-needed time to rest (when there is no diaper to replace, belly to fill, or cuddle to give), I feel that this is a good opportunity to communicate what I have been up to these last six years. The short answer: A LOT, and possibly, too much.

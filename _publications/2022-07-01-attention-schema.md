@@ -5,7 +5,7 @@ permalink: /publication/2022-07-01-attention-schema
 excerpt: ''
 date: 2022-07-01
 venue: ''
-paperurl: 'http://academicpages.github.io/files/manuscripts/paper1.pdf'
+paperurl: ''
 citation: 'Berns, Simons, & He (2022)'
 ---
 
