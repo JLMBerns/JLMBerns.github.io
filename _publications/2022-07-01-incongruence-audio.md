@@ -1,11 +1,11 @@
 ---
 title: "Verbal delivery and content mismatch: How incongruence between managers' tone of voice and word sentiment affects security analysts' recommendations"
-collection: publications
+collection: manuscripts
 permalink: /publication/2022-07-01-incongruence-audio
 excerpt: ''
 date: 2022-07-01
 venue: ''
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: ''
 citation: 'Berns, Joris and Simons, Tal (2022)'
 ---
 
