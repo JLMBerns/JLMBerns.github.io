@@ -5,7 +5,7 @@ permalink: /publication/2022-07-01-incongruence-audio
 excerpt: ''
 date: 2022-07-01
 venue: ''
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/manuscripts/paper1.pdf'
 citation: 'Berns, Joris and Simons, Tal (2022)'
 ---
 
