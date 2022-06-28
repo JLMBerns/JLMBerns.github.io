@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Manuscripts"
+title: "Manuscripts (Unpublished)"
 permalink: /publications/
 author_profile: true
 ---
