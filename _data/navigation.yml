@@ -1,7 +1,13 @@
 # main links links
 main:
+  - title: "Research"
+    url: /research_single/
+
   - title: "Projects"
     url: /publications/
+
+  - title: "Teaching"
+    url: /teaching_single/
 
  # - title: "Talks"
  #   url: /talks/
@@ -24,8 +30,4 @@ main:
   # - title: "Software"
   #   url: /software/
   
-  - title: "Teaching"
-    url: /teaching_single/
 
-  - title: "Research"
-    url: /research_single/
