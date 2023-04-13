@@ -7,6 +7,9 @@ During my PhD, I have been involved in a variety of courses related to *Strategy
 
 Courses I have been involved in include:
 
+- Internships
+- Strategy for Pre-master
+
 ### Internships
 
 During one semester, bachelor students intern at an organization, for which they work on a self-identified project. I am the university's supervisor for these students.
